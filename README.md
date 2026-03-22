@@ -1,6 +1,6 @@
 # Tic-Tac-Toe (XO Game) 🎮
 
-A two-player Tic-Tac-Toe desktop game built with **C#** and **Windows Forms (.NET Framework)**, developed to apply the concepts learned in Dr. Mohammad Abu-Hadhoud's C# Level 1 (Course Number 14) course on [Programming Advices](https://www.programmingadvices.com).
+A two-player Tic-Tac-Toe desktop game built with **C#** and **Windows Forms (.NET Framework)**, developed to apply the concepts learned in Dr. Mohammad Abu-Hadhoud's C# Level 1 course on [Programming Advices](https://www.programmingadvices.com).
 
 ---
 
@@ -8,19 +8,19 @@ A two-player Tic-Tac-Toe desktop game built with **C#** and **Windows Forms (.NE
 
 > Game in progress — Player 1's turn
 
-![Game In Progress](screenshots/in_progress.png)
+![Game In Progress](screenshots/Game%20In%20Progress.png)
 
 > Player 1 wins — top row highlighted in green
 
-![Player 1 Wins](screenshots/player1_wins.png)
+![Player 1 Wins](screenshots/Player%201%20Wins.png)
 
 > Player 2 wins — top row highlighted in green
 
-![Player 2 Wins](screenshots/player2_wins.png)
+![Player 2 Wins](screenshots/Player%202%20Wins.png)
 
 > Draw — board full with no winner
 
-![Draw](screenshots/draw.png)
+![Draw](screenshots/Draw.png)
 
 ---
 
@@ -65,4 +65,4 @@ This project was built to apply concepts from **C# Level 1** by Dr. Mohammad Abu
 
 ## Author
 
-**Yusuf SHAABAN ARJA**
+**Yusuf Shaaban Arja**
