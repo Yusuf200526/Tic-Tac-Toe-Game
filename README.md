@@ -53,7 +53,7 @@ A two-player Tic-Tac-Toe desktop game built with **C#** and **Windows Forms (.NE
 | Language | C# |
 | Framework | .NET Framework |
 | UI | Windows Forms (WinForms) |
-| IDE | Visual Studio |
+| IDE | Visual Studio Community |
 
 ---
 
